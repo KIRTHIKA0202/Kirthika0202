@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Kirthika+C.+Krishnan;Software+Engineering+Student;Future+Full+Stack+Developer;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Kirthika+C.+Krishnan;Software+Engineering+Student;Full+Stack+Developer;" />
 </h1>
 
 <p align="center">
@@ -16,6 +16,11 @@
 
 ## 🚀 About Me
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,java,php,js,mysql,azure,ps,pr" />
+</p>
+
+
 ✨ Software Engineering student who enjoys building **web applications and enterprise systems**.  
 ✨ Interested in **Full Stack Development, Cloud Computing, and Software Architecture**.  
 ✨ Always exploring **new technologies, frameworks, and tools**.
@@ -31,6 +36,7 @@
 ---
 
 # 🛠️ Tech Stack
+
 
 ### 💻 Programming Languages
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
