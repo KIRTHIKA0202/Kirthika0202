@@ -1,6 +1,10 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Kirthika+C.+Krishnan;Software+Engineering+Student;Full+Stack+Developer;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Kirthika+C.+Krishnan;Software+Engineering+Student;Future+Full+Stack+Developer;" />
 </h1>
+
+<p align="center">
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="200">
+</p>
 
 <p align="center">
 🎓 Master of Software Engineering (Software Technology) <br>
