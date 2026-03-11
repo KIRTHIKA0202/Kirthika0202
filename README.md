@@ -28,43 +28,51 @@
 
 ---
 
+---
+
 # 🛠️ Tech Stack
 
 ### 💻 Programming Languages
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![C#](https://img.shields.io/badge/CSharp-68217A?style=for-the-badge&logo=csharp&logoColor=white)
 ![VB.NET](https://img.shields.io/badge/VB.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### 🌐 Web Technologies
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+---
+
+### 🌐 Web Development
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 
-### ⚙️ Frameworks & Tools
+---
+
+### ⚙️ Frameworks & Development Tools
 ![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET_Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Maven](https://img.shields.io/badge/Apache_Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+![Apache Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+
+---
 
 ### 🗄️ Databases
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### ☁️ Cloud
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=KIRTHIKA0202&show_icons=true&theme=tokyonight" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KIRTHIKA0202&layout=compact&theme=tokyonight" height="180"/>
-</p>
+### ☁️ Cloud & Deployment
+![Microsoft Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Amazon AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI/CD-Pipeline-blue?style=for-the-badge)
 
 ---
 
@@ -77,19 +85,30 @@
 ---
 
 # 🎨 Creative Skills
+<p align="center">
+<img src="https://cdn-icons-png.flaticon.com/512/5968/5968520.png" width="50"/>
+<img src="https://cdn-icons-png.flaticon.com/512/5968/5968472.png" width="50"/>
+<img src="https://cdn-icons-png.flaticon.com/512/5968/5968525.png" width="50"/>
+<img src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" width="50"/>
+</p>
 
-- Adobe Photoshop
-- Adobe Illustrator
-- Adobe Premiere Pro
-- Filmora
-- Canva
+- 🎬 Multimedia Editing  
+- 🎨 Graphic Design  
+- 📹 Video Production  
+- 🖌 Digital Illustration  
+
+**Tools I Use:**  
+- Adobe Photoshop  
+- Adobe Illustrator  
+- Adobe Premiere Pro  
+- Filmora  
+- Canva  
 
 ---
 
 # 📫 Connect With Me
-
 <p align="center">
-<a href="www.linkedin.com/in/kirthikakrishnan">
+<a href="https://www.linkedin.com/in/kirthikakrishnan">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
@@ -101,5 +120,6 @@
 ---
 
 <p align="center">
-✨ Thanks for visiting my profile! ✨
+✨ Thanks for visiting my GitHub profile! ✨ <br>
+💻 Always learning • Always building • Always improving
 </p>
