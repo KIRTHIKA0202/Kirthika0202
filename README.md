@@ -1,11 +1,18 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Kirthika+C.+Krishnan;Software+Engineering+Student;Full+Stack+Developer;" />
-</h1>
-
 <p align="center">
 <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="200">
 </p>
 
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Kirthika+C.+Krishnan;Software+Engineering+Student;Full+Stack+Developer;" />
+</h1>
+
+
+<p align="center">
+  <img src="https://github.com/KIRTHIKA0202/Kirthika0202/blob/main/rsz_6cfaf8be-a512-47cf-bf70-0f7db34e4710.jpg?raw=true" width="180" style="border-radius:50%; border:5px solid #6c63ff;">
+  <br>
+  
+</p>
+  
 <p align="center">
 🎓 Master of Software Engineering (Software Technology) <br>
 💻 Passionate Software Developer <br>
@@ -33,7 +40,6 @@
 
 ---
 
----
 
 # 🛠️ Tech Stack
 
